@@ -6,6 +6,5 @@ venv/
 .venv/
 .vscode/
 output/
-figures/
 *.csv
 !data/titanic.csv
