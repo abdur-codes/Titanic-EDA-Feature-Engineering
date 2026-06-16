@@ -1,4 +1,4 @@
-# Enterprise-Grade Data Engineering: Project 1
+# Titanic EDA & Feature Engineering
 
 Advanced EDA, Vectorized Pipelines, and High-Fidelity Feature Stores
 
