@@ -201,7 +201,7 @@ Missing ≥ 20%      → KNN Imputation (k=5, numeric) / Drop column (categorica
 ## 🤝 Connect
 
 [![GitHub](https://img.shields.io/badge/GitHub-abdur--codes-181717?logo=github)](https://github.com/abdur-codes)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://linkedin.com/in/abdur-codes)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?logo=linkedin)](https://www.linkedin.com/in/abdur-rehman-581305358)
 
 **If you find this project useful, consider giving it a ⭐!**
 
